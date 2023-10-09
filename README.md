@@ -69,7 +69,7 @@ If you find Spiking PointNet codebase useful, please cite:
 @inproceedings{
 anonymous2023spiking,
 title={Spiking PointNet: Spiking Neural Networks for Point Clouds},
-author={Anonymous},
+author={Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, Yufei Guo},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=Ev2XuqvJCy}
